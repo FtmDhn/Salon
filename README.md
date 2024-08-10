@@ -4,7 +4,7 @@
 
 ![pic1](https://github.com/user-attachments/assets/3c5540c2-3a27-4132-92ea-3fb6bcb5a6c2)
 
-![view2](![view2](https://github.com/user-attachments/assets/ede4d018-719f-4a26-a163-b73c681e166b))
+![pic2](https://github.com/user-attachments/assets/85423aa3-0e06-4403-9a00-0cab0e499445)
 
 - 🐾 [Demo Project]https://ftmdhn.github.io/Salon/)
 
