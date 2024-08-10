@@ -12,7 +12,7 @@
 
 - 🕜 Created - 2024-08-10
 
-- Technologies Used - Html , css , js
+- Technologies Used - Html , css 
 
 - Hooks Used : useState 
 
